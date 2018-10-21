@@ -1,0 +1,19 @@
+@media only screen and (max-width: 1024px) {
+	.hero-text-box {
+		width: 100%;
+	}
+	.main-nav li{
+		margin: 40px 40px 0 0;
+		font-size: 90%;
+	}
+
+	.sticky .main-nav li {
+		font-size: 85%;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+	.main-nav li {
+		display: block;
+	}
+}
